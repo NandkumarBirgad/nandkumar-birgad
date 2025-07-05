@@ -1,6 +1,5 @@
 ![logo](https://github.com/NandkumarBirgad/nandkumar-birgad/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nandkumar Birgad</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
 <img aling="right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandkumarbirgad&label=Profile%20views&color=0e75b6&style=flat" alt="nandkumarbirgad" /> </p>
